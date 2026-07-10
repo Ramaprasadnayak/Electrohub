@@ -129,6 +129,12 @@ docker-compose up --build
 
 ## 📸 Screenshots
 
+https://github.com/Ramaprasadnayak/Electrohub/blob/a7105cdd00d327062f133c8d881fb3b1c7fa626f/home.png
+https://github.com/Ramaprasadnayak/Electrohub/blob/a7105cdd00d327062f133c8d881fb3b1c7fa626f/login.png
+https://github.com/Ramaprasadnayak/Electrohub/blob/a7105cdd00d327062f133c8d881fb3b1c7fa626f/productpage.png
+https://github.com/Ramaprasadnayak/Electrohub/blob/a7105cdd00d327062f133c8d881fb3b1c7fa626f/cart.png
+https://github.com/Ramaprasadnayak/Electrohub/blob/a7105cdd00d327062f133c8d881fb3b1c7fa626f/products.png
+
 
 
 ---
